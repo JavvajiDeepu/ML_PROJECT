@@ -55,3 +55,8 @@ Objective of this project is to predict results of test that are performed by st
     │───application.py
     └───Readme.md
 
+#### Implementation:
+
+1. Data source: Datasets for training of this model were taken from Kaggle, here is the link:https://www.kaggle.com/code/nitindatta/students-performance-in-exams-eda-in-depth
+
+2.
