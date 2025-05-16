@@ -71,5 +71,6 @@ The model that achieved the best performance based on these metrics was selected
 
 As part of deployment, the model was optionally integrated into a user-friendly interface using a web framework such as Flask or Streamlit. This allowed users—such as teachers or school administrators—to input student information and receive immediate predictions about expected academic performance. The application was designed to run either locally or on a cloud platform such as AWS EC2 for broader access.
 
-In conclusion, the Student Performance Prediction project demonstrates how machine learning can be effectively used in education to provide predictive insights. It not only helps identify students who may need additional academic attention but also sheds light on how socio-economic and preparatory factors influence academic outcomes. Future improvements may include incorporating behavioral data, attendance records, or even psychological metrics to further refine predictions and enhance model interpretability.
+#### In conclusion:
+The Student Performance Prediction project demonstrates how machine learning can be effectively used in education to provide predictive insights. It not only helps identify students who may need additional academic attention but also sheds light on how socio-economic and preparatory factors influence academic outcomes. Future improvements may include incorporating behavioral data, attendance records, or even psychological metrics to further refine predictions and enhance model interpretability.
 
